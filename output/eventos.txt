@@ -1,0 +1,122 @@
+.. title: Eventos
+.. slug: eventos
+.. date: 2013/03/29 18:17:21
+.. tags: 
+.. link: 
+.. description: 
+
+
+
+III Simpósio de Modelagem do Controle da Dengue
+===============================================
+
+Petrópolis, 8 a 10 de maio de 2013
+
+-----------------
+
+II Simpósio de Modelagem do Controle da Dengue
+===============================================
+
+São José dos Campos, 11 a 13 de abril de 2012
+
+`Programa 2012 <ProgramaINPE2012.pdf>`_
+
+A segunda oficina foi organizada com o objetivo de discutir, compartilhar, trocar ideias, encaminhar os
+vários projetos em andamento e identificar parcerias e intercâmbios que a rede possa estimular e
+favorecer. Uma tarefa importante foi avaliar as etapas em que nos encontrávamos nos
+objetivos propostos originalmente e definir os planos de trabalho para finalizá-los no
+próximo ano.
+
+Diferentemente da primeira reunião, criamos dinâmicas mais interativas para discutir alguns eixos fundamentais: o GT de Modelagem,
+GT de Early Warning, o GT de Sistema de Informação e o GT de Estratégias de Controle.
+
+-----------------
+
+I Simpósio de Modelagem do Controle da Dengue
+===============================================
+
+Rio de Janeiro, 14 a 16 de fevereiro de 2011
+
+`Programa 2011 <ProgramaIMPA2011.pdf>`_
+
+Realizada no Auditório 1 IMPA, a I Oficina do Pronex foi organizada com vários objetivos:
+1. Capacitar os membros da rede nos aspectos principais da biologia, epidemiologia e vigilância da dengue.
+Para isso, convidamos especialistas das respectivas áreas para ministrar aulas pela manhã: 
+Tamara Nunes Câmara, bióloga e doutoranda do IOC/Fiocruz, que trabalha com ecologia de Aedes aegypti,
+Dras Ana Bispo e Rita Nogueira, pesquisadoras do Laboratório de Referência em Dengue da Fiocruz, 
+e Jean Barrado, do CIEVS/MS. Foram aulas extremamente interessantes e muito participativas. 
+Em média, 30 a 40 alunos, dentre biólogos, matemáticos e afins, assistiram as aulas.
+
+2. Apresentar os trabalhos em andamento no grupo, identificar
+sobreposições, obstáculos a serem vencidos e potenciais parcerias. Foram 10 apresentações de 20
+minutos seguidas de discussão. Apresentaram trabalhos, alunos e representantes de todas as 
+instituições participantes da rede, assim como o INPE, por nós convidado. 
+
+3. Identificar desdobramentos para o ano de 2011. Foram vários, dentre novas articulações
+dentro do grupo, troca de especialidades e organização de eventos de divulgação do trabalho
+realizado. 
+
+
+I Reunião da Rede
+===============================================
+
+Rio de Janeiro, 10 de agosto de 2010
+
+`Programa 2010 <Oficina1.pdf>`_
+
+
+-------------------
+
+Cursos
+======
+
+
+Curso de Verão em Modelagem de Epidemias
+++++++++++++++++++++++++++++++++++++++++
+
+Rio de Janeiro, 7 a 12 de fevereiro de 2012
+
+ Professora: Dra Gabriela Gomes (Instituto Gulbenkian de Ciência - Portugal)
+ 
+Curso com 32 alunos inscritos, realizado na Fundação Oswaldo Cruz, de modelos matemáticos de doenças transmissíveis.
+ 
+
+Oficina técnica de Modelagem do vetor da dengue
++++++++++++++++++++++++++++++++++++++++++++++++
+
+FGV, Rio de Janeiro, 19 e 20 de maio de 2011
+
+O objetivo desse encontro é avançar no estudo e desenvolvimento de modelos de dinâmica de Aedes aegypti 
+que possam servir de base para a modelagem de controle vetorial. A literatura é farta em modelos, mas não
+há consenso sobre seus pressupostos. Através de reunião com especialistas em matemática e em epidemiologia, 
+esperamos avaliar e definir os modelos a serem implementados no âmbito do projeto. 
+
+ 
+Curso de TerraView
+++++++++++++++++++
+
+Rio de Janeiro, 25 a 29 de julho de 2011
+
+ Professores: Izabel Reis, Renata Gracie, Wagner Tassinari e Virginia Correia
+
+`Chamada <chamadacursogeoprocessamento.pdf>`_ 
+
+
+Sessão Temática sobre Epidemiologia da Dengue
++++++++++++++++++++++++++++++++++++++++++++++
+Foz do Iguaçu, março de 2011
+
+`Resumos <sessaoFozIguacu.pdf>`_
+
+ 
+Curso de TerraME
+++++++++++++++++
+
+Ouro Preto, 19 a 22 de outubro de 2010
+
+ Professor: Dr Tiago Carneiro  (UFOP)
+ 
+Curso de capacitação de `TerraME <http://www.terrame.org/>`_ para ser utilizado como ambiente de simulação da Rede.
+
+
+ 

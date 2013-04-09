@@ -1,0 +1,212 @@
+.. title: A Rede
+.. slug: equipe
+.. date: 2013/03/29 18:04:01
+.. tags: 
+.. link: 
+.. description: 
+
+.. class:: row
+
+Atualmente, a rede é composta de 11 instituições de pesquisa brasileiras, vários pesquisadores, alunos de pós-graduação e de graduação.
+
+.. class:: span5
+
+.. image:: INPE2012.png
+     :height: 300
+     :width: 400
+     :align: left
+
+
+Instituições
+------------
+
+.. class:: nav-list
+
+ * Fundação Oswaldo Cruz `Fiocruz`_
+
+ * Fundação Getulio Vargas `FGV`_
+
+ * Universidade Federal Fluminense `UFF`_
+
+ * Universidade Federal de Ouro Preto `UFOP`_
+
+ * Universidade Federal de Lavras `UFLA`_
+
+ * Universidade de São Paulo `USP`_
+
+ * Instituto Nacional de Pesquisas Espaciais `INPE`_
+
+ * Universidade Estadual do Oeste do Paraná `Unioeste`_
+
+ * Universidade Federal do Maranhão `UFMA`_
+
+ * Universidade Federal da Bahia `UFBA`_
+
+ * Instituto de Matemática Pura e Aplicada `IMPA`_
+
+
+--------------
+
+.. class:: row
+
+.. class:: span5
+
+
+Pesquisadores e Alunos
+======================
+
+.. |lattes| image:: lattes.jpg
+     :height: 15px
+     :width: 15px
+     
+   
+.. _`Fiocruz`:
+
+Programa de Computação Científica, Fundação Oswaldo Cruz (Fiocruz)
+
+  -  |lattes| `Claudia Torres Codeco <http://lattes.cnpq.br/1929576902623348>`_
+  
+  -  |lattes| `Claudio Jose Struchiner <http://lattes.cnpq.br/7202319892868540>`_
+
+  -  |lattes| `Oswaldo Cruz <http://lattes.cnpq.br/9530671289607786>`_
+
+  -  |lattes| `Aline Nobre <http://lattes.cnpq.br/5860617664784376>`_
+  
+  -  |lattes| `Helio Schechtman <http://lattes.cnpq.br/5343124450714007>`_ 
+
+  -  |lattes| `Tayñana Simões  <http://lattes.cnpq.br/3546257927731571>`_ 
+  
+  -  |lattes| `Jean Barrado <http://lattes.cnpq.br/4759017411527948>`_ 
+  
+  -  |lattes| `Izabel Cristina dos Reis <http://lattes.cnpq.br/5912024067464378>`_  
+  
+  -  |lattes|  `Danielle C. Castro Costa <http://lattes.cnpq.br/8707465670173881>`_ , bolsista EXP-2 
+  
+  
+   
+  
+  
+
+.. _`FGV`:
+
+Escola de Matemática Aplicada, Fundação Getúlio Vargas
+   
+   - |lattes| `Jair Koiller  <http://lattes.cnpq.br/5716929151556664>`_
+
+   - |lattes| `Flavio Codeco Coelho <http://lattes.cnpq.br/0309050626285266>`_
+
+   - |lattes| `Moacyr Alvim Silva <http://lattes.cnpq.br/9077049649454688>`_  
+   
+   - |lattes| `Jayron Soares <http://lattes.cnpq.br/7572912069853163>`_ , PIBIC (2010-11)
+   
+
+.. _`UFF`:
+
+Departamento de Física, Universidade Federal Fluminense
+
+    - |lattes| `Max Souza <http://lattes.cnpq.br/6908067473022811>`_
+    
+    - |lattes| `Leticia Oliveira Nunes <http://lattes.cnpq.br/7542483618680657>`_ , PIBIC (2011-12)
+
+.. _`USP`:
+
+Departamento de Informática Médica
+
+    - |lattes| `Eduardo Massad <http://lattes.cnpq.br/4918480082833198>`_
+    
+    
+.. _`UFOP`:
+
+Laboratório TerraLab
+
+    - |lattes| `Tiago Carneiro <http://lattes.cnpq.br/4579376264162079>`_
+
+    - |lattes| `Raquel Martins Lana <http://lattes.cnpq.br/2518752229392005>`_ , bolsista EXP-2
+
+    - |lattes| `Tiago Lima <http://lattes.cnpq.br/8782169137677578>`_
+    
+    - |lattes| `Breno de Almeida Resende <http://lattes.cnpq.br/9735082244126977>`_ , PIBIC (2011-)
+    
+    - |lattes| `Fernando Filipe dos Reis <http://lattes.cnpq.br/2527617376660354>`_ , PIBIC (2010-11)
+    
+    - |lattes| `Leandro Gomes da Silva <http://lattes.cnpq.br/9080030670595147>`_ , PIBIC (2013-)
+    
+
+
+.. _`UFLA`:
+
+
+Departamento de Física
+
+    - |lattes| `Iraziet Charret <http://lattes.cnpq.br/8499158849553952>`_
+
+    - |lattes| `Crysttian Paixão <http://lattes.cnpq.br/6914542088971040>`_
+    
+    - |lattes| `Alisson Luiz da Silva Lemos <http://lattes.cnpq.br/2896303473664858>`_, PIBIC (2012-)
+    
+    - |lattes| `Felipe da Cruz Rodrigues <http://lattes.cnpq.br/1331171461629506>`_ , PIBIC (2011-)
+
+
+.. _`INPE`:
+
+Departamento de Geoprocessamento
+
+    - |lattes| `Antonio Miguel Vieira Monteiro <http://lattes.cnpq.br/0654596992211296>`_
+
+    - |lattes| `Liliam Cesar de Castro Medeiros <http://lattes.cnpq.br/6937937220569796>`_
+
+    - |lattes| `Leonardo Bacellar Santos <http://lattes.cnpq.br/9147853693310634>`_
+    
+    - |lattes| `Raian Vargas Maretto <http://lattes.cnpq.br/7874296760531038>`_
+
+
+.. _`IMPA`:
+
+Instituto de Matemática Pura e Aplicada
+
+	- |lattes| `Jorge Zubelli <http://lattes.cnpq.br/8675737468901580>`_
+	
+	- Nara Bobko 
+	
+
+.. _`UNIOESTE`:
+
+Universidade Estadual do Oeste do Paraná
+
+	- |lattes| `Rogerio Rizzi <http://lattes.cnpq.br/6582924053364296>`_
+	
+	- |lattes| `Reginaldo Zara <http://lattes.cnpq.br/7998616816664364>`_
+	
+	- |lattes| `Claudia Rizzi <http://lattes.cnpq.br/2203704515345173>`_
+	
+	- |lattes| `Andre Brun <http://lattes.cnpq.br/4617587198467560>`_
+	
+	- |lattes| `Bruno Eduardo Soares <http://lattes.cnpq.br/9597436299457760>`_ , PIBIC (2011-12)
+	
+	- |lattes| `Diego Robles V Ribeiro <http://lattes.cnpq.br/8851567513073317>`_, PIBIC(2010-12)
+	
+	- |lattes| `Gabriel Sanches Silva <http://lattes.cnpq.br/0526325957400714>`_, PIBIC (2013-)
+	
+	- |lattes| `Gustavo Catarino da Costa <http://lattes.cnpq.br/7304978507857095>`_, PIBIC (2012-)
+	
+
+
+.. _`UFMA`:
+
+Universidade Federal do Maranhão
+
+   - |lattes| `Aristófanes Correa Silva <http://lattes.cnpq.br/2446301582459104>`_
+   
+   - |lattes| `Anselmo Paiva <http://lattes.cnpq.br/6446831084215512>`_
+   
+   - |lattes| `Breno Reis do Nascimento <http://lattes.cnpq.br/0276671278035820>`_ , aluno PIBIC (2011-12)
+
+
+.. _`UFBA`:
+
+Universidade Federal da Bahia
+
+   - |lattes| `Suani Pinho <http://lattes.cnpq.br/6138444339310388>`_
+
+
+
