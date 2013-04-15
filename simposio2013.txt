@@ -1,0 +1,35 @@
+.. title: III Simpósio de Modelagem do Controle da Dengue
+.. slug: simposio2013
+.. date: 2013/04/12 11:31:29
+.. tags: 
+.. link: 
+.. description: 
+
+.. image:: palacio.jpg
+     :height: 200
+     :width: 300
+     :align: left
+
+Petrópolis, 8 a 10 de maio de 2013
+===============================================
+
+Bem vindos ao nosso terceiro Simpósio! É hora de apresentar o que fizemos nesses
+quase três anos de ativa colaboração. É o fim desse projeto, mas apenas o começo de uma
+frutífera rede de colaborações.
+
+.. class:: span5
+
+Confira:
+----------
+
+.. class:: nav-list
+
+ * `Programação preliminar <Programa.pdf>`_
+ 
+ * Lista de participantes
+ 
+ * `Informações sobre Petrópolis e nossa viagem <Informacoes.pdf>`_ 
+
+
+
+
