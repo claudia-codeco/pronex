@@ -30,7 +30,7 @@ assim como subsidiar tomadas de decisão. `Poster <poster_rededengue2010.pdf>`_
     
     .. class:: btn
 
-   `Saiba mais! <eventos.html>`_
+   `Saiba mais! <simposio2013.html>`_
 
 
 .. class:: span5
