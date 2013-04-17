@@ -108,14 +108,14 @@ Departamento de Física, Universidade Federal Fluminense
 
 .. _`USP`:
 
-Departamento de Informática Médica
+Departamento de Informática Médica (USP)
 
     - |lattes| `Eduardo Massad <http://lattes.cnpq.br/4918480082833198>`_
     
     
 .. _`UFOP`:
 
-Laboratório TerraLab (campus Ouro Preto)
+Laboratório TerraLab (UFOP, campus Ouro Preto)
 
     - |lattes| `Tiago Carneiro <http://lattes.cnpq.br/4579376264162079>`_
 
@@ -127,7 +127,7 @@ Laboratório TerraLab (campus Ouro Preto)
     
     
     
-Laboratório LEDS (campus João Molevade)
+Laboratório LEDS (UFOP, campus João Molevade)
 
     - |lattes| `Tiago Lima <http://lattes.cnpq.br/8782169137677578>`_
     
@@ -137,7 +137,7 @@ Laboratório LEDS (campus João Molevade)
 .. _`UFLA`:
 
 
-Departamento de Física
+Departamento de Física (UFLA)
 
     - |lattes| `Iraziet Charret <http://lattes.cnpq.br/8499158849553952>`_
     
@@ -148,7 +148,7 @@ Departamento de Física
 
 .. _`INPE`:
 
-Departamento de Geoprocessamento
+Departamento de Geoprocessamento (INPE)
 
     - |lattes| `Antonio Miguel Vieira Monteiro <http://lattes.cnpq.br/0654596992211296>`_
 
