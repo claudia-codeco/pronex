@@ -82,10 +82,6 @@ Programa de Computação Científica, Fundação Oswaldo Cruz (Fiocruz)
   
   -  |lattes|  `Danielle C. Castro Costa <http://lattes.cnpq.br/8707465670173881>`_ , bolsista EXP-2 
   
-  
-   
-  
-  
 
 .. _`FGV`:
 
@@ -96,6 +92,8 @@ Escola de Matemática Aplicada, Fundação Getúlio Vargas
    - |lattes| `Flavio Codeco Coelho <http://lattes.cnpq.br/0309050626285266>`_
 
    - |lattes| `Moacyr Alvim Silva <http://lattes.cnpq.br/9077049649454688>`_  
+   
+   - |lattes| `Crysttian Paixão <http://lattes.cnpq.br/6914542088971040>`_
    
    - |lattes| `Jayron Soares <http://lattes.cnpq.br/7572912069853163>`_ , PIBIC (2010-11)
    
@@ -117,21 +115,24 @@ Departamento de Informática Médica
     
 .. _`UFOP`:
 
-Laboratório TerraLab
+Laboratório TerraLab (campus Ouro Preto)
 
     - |lattes| `Tiago Carneiro <http://lattes.cnpq.br/4579376264162079>`_
 
     - |lattes| `Raquel Martins Lana <http://lattes.cnpq.br/2518752229392005>`_ , bolsista EXP-2
-
-    - |lattes| `Tiago Lima <http://lattes.cnpq.br/8782169137677578>`_
     
     - |lattes| `Breno de Almeida Resende <http://lattes.cnpq.br/9735082244126977>`_ , PIBIC (2011-)
     
     - |lattes| `Fernando Filipe dos Reis <http://lattes.cnpq.br/2527617376660354>`_ , PIBIC (2010-11)
     
+    
+    
+Laboratório LEDS (campus João Molevade)
+
+    - |lattes| `Tiago Lima <http://lattes.cnpq.br/8782169137677578>`_
+    
     - |lattes| `Leandro Gomes da Silva <http://lattes.cnpq.br/9080030670595147>`_ , PIBIC (2013-)
     
-
 
 .. _`UFLA`:
 
@@ -139,8 +140,6 @@ Laboratório TerraLab
 Departamento de Física
 
     - |lattes| `Iraziet Charret <http://lattes.cnpq.br/8499158849553952>`_
-
-    - |lattes| `Crysttian Paixão <http://lattes.cnpq.br/6914542088971040>`_
     
     - |lattes| `Alisson Luiz da Silva Lemos <http://lattes.cnpq.br/2896303473664858>`_, PIBIC (2012-)
     

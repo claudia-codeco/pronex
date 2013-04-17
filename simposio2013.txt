@@ -24,7 +24,7 @@ Confira:
 
 .. class:: nav-list
 
- * `Programação preliminar <Programa.pdf>`_
+ * `Programação preliminar REVISADA em 17/4 <Programa2.pdf>`_
  
  * Lista de participantes
  
