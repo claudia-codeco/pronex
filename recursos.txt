@@ -6,7 +6,13 @@
 .. description: 
 
 
-1. Palestras
+1. Plataforma de Dados abertos 
+------------------------------
+
+Confira, utilize e contribua com dados que subsidiem a modelagem em dengue na nossa `Plataforma de Dados Abertos <http://ckan.emap.fgv.br/pt_BR/dataset?organization=dengue-mat>`_ 
+
+2. Palestras
+------------
 
 
 .. class:: nav-list
@@ -23,7 +29,8 @@
 * `Simulation of dengue using TerraME <terrame2011.pdf>`_. apresentado por Tiago Carneiro, IMPA 2011
 * `Modelos matemáticos e computacionais <ufla2011.pdf>`_. apresentado por Iraziet Charret, IMPA 2011
 
-2. Alguns artigos sobre dengue, produzidos por membros da rede
+3. Alguns artigos sobre dengue, produzidos por membros da rede
+--------------------------------------------------------------
 
 .. class:: nav-list
 
