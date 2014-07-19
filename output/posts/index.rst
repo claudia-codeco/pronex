@@ -7,7 +7,7 @@
 
 
 
-.. image:: logo_rede.jpg
+.. image:: /logo_rede.jpg
    :height: 200px
    :width: 200px
    :scale: 100 %
@@ -17,7 +17,7 @@
 Somos uma rede de profissionais, criada dentro do Programa de Excelência do CNPq, que visa gerar 
 modelos para dengue passiveis de serem validados com dados reais de campo que possam orientar 
 autoridades quanto aos principais parâmetros necessários em coletas de dados
-assim como subsidiar tomadas de decisão. `Poster <poster_rededengue2010.pdf>`_
+assim como subsidiar tomadas de decisão. `Poster </poster_rededengue2010.pdf>`_
 
 
 .. class:: hero-unit span6
