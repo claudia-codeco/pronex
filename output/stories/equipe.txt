@@ -11,7 +11,7 @@ Atualmente, a rede é composta de 11 instituições de pesquisa brasileiras, vá
 
 .. class:: span5
 
-.. image:: INPE2012.png
+.. image:: /INPE2012.png
      :height: 300
      :width: 400
      :align: left
@@ -55,7 +55,7 @@ Instituições
 Pesquisadores e Alunos
 ======================
 
-.. |lattes| image:: lattes.jpg
+.. |lattes| image:: /lattes.jpg
      :height: 15px
      :width: 15px
      

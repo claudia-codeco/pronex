@@ -14,35 +14,25 @@
    :align: right
 
 
-Somos uma rede de profissionais, criada dentro do Programa de Excelência do CNPq, que visa gerar 
-modelos para dengue passiveis de serem validados com dados reais de campo que possam orientar 
-autoridades quanto aos principais parâmetros necessários em coletas de dados
-assim como subsidiar tomadas de decisão. `Poster </poster_rededengue2010.pdf>`_
+Rede de pesquisa, criada dentro do escopo do Programa de Excelência do CNPq, para estimular a geração 
+de modelos matemáticos, estatísticos e computacionais, aplicados ao melhor entendimento da dengue
+e seu monitoramento e controle. `Poster </poster_rededengue2010.pdf>`_
 
 
 .. class:: hero-unit span6
 
-.. admonition:: Atividades
+.. admonition:: VI Simpósio de Modelagem em Dengue
 
-    III Simpósio de Modelagem em Dengue
-     8 a 10 de maio de 2013
-     Petrópolis, RJ
+     12 a 14 de novembro de 2014
+     
+     UNESP, São José dos Campos, SP 
     
     .. class:: btn
 
-   `Saiba mais! <simposio2013.html>`_
-
-
-.. class:: span5
+   `Inscrições Abertas! </stories/simposio2014.html>`_
 
 
 
 
-Objetivos
----------
 
-   * Produzir investigações em epidemiologia matemática, com especificidade em dengue; 
 
-   * Gerar sistemas de informações para subsidiar as autoridades na tomada de decisões;
-
-   * Fórum de discussão e colaboração que favoreça soluções interdisciplinares para os problemas relacionados à dengue.

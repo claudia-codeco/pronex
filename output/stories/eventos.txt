@@ -7,16 +7,25 @@
 
 
 
+IV Simpósio de Modelagem do Controle da Dengue 
+===============================================
+
+São José dos Campos, 12 a 14 de novembro de 2014
+
+
+`Inscrições abertas! </stories/simposio2014.html>`_
+
+
+-----------------
+
+
 III Simpósio de Modelagem do Controle da Dengue 
 ===============================================
 
 Petrópolis, 8 a 10 de maio de 2013
 
-
-Confira a `programação! <simposio2013.html>`_
-
-
------------------
+A terceira oficina foi um momento de síntese dos projetos realizados no escopo do Edital Pronex Dengue
+e definição de desdobramentos da Rede, que incluiu a intenção de manter os simpósios anuais.
 
 
 II Simpósio de Modelagem do Controle da Dengue
@@ -24,7 +33,7 @@ II Simpósio de Modelagem do Controle da Dengue
 
 São José dos Campos, 11 a 13 de abril de 2012
 
-`Programa 2012 <ProgramaINPE2012.pdf>`_
+`Programa 2012 </ProgramaINPE2012.pdf>`_
 
 A segunda oficina foi organizada com o objetivo de discutir, compartilhar, trocar ideias, encaminhar os
 vários projetos em andamento e identificar parcerias e intercâmbios que a rede possa estimular e
@@ -42,7 +51,7 @@ I Simpósio de Modelagem do Controle da Dengue
 
 Rio de Janeiro, 14 a 16 de fevereiro de 2011
 
-`Programa 2011 <ProgramaIMPA2011.pdf>`_
+`Programa 2011 </ProgramaIMPA2011.pdf>`_
 
 Realizada no Auditório 1 IMPA, a I Oficina do Pronex foi organizada com vários objetivos:
 1. Capacitar os membros da rede nos aspectos principais da biologia, epidemiologia e vigilância da dengue.
@@ -67,7 +76,7 @@ I Reunião da Rede
 
 Rio de Janeiro, 10 de agosto de 2010
 
-`Programa 2010 <Oficina1.pdf>`_
+`Programa 2010 </Oficina1.pdf>`_
 
 
 -------------------
@@ -104,14 +113,14 @@ Rio de Janeiro, 25 a 29 de julho de 2011
 
  Professores: Izabel Reis, Renata Gracie, Wagner Tassinari e Virginia Correia
 
-`Chamada <chamadacursogeoprocessamento.pdf>`_ 
+`Chamada </chamadacursogeoprocessamento.pdf>`_ 
 
 
 Sessão Temática sobre Epidemiologia da Dengue
 +++++++++++++++++++++++++++++++++++++++++++++
 Foz do Iguaçu, março de 2011
 
-`Resumos <sessaoFozIguacu.pdf>`_
+`Resumos </sessaoFozIguacu.pdf>`_
 
  
 Curso de TerraME

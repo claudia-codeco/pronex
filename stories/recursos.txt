@@ -17,17 +17,17 @@ Confira, utilize e contribua com dados que subsidiem a modelagem em dengue na no
 
 .. class:: nav-list
 
-* `Towards an ontology for mathematical epidemiology <ontologia2012.pdf>`_. apresentado por Flavio Coelho, Renato Rocha e Claudia Codeco, Mysore 2012
-* `Models of dengue fever and their contributions to public health <CNMAC2012.pdf>`_. apresentado por Claudia Codeco, CNMAC 2012
-* `Seasonality and spatial dynamics of dengue fever <CostaRica2012.pdf>`_. apresentado por Claudia Codeco, Costa Rica, 2012
-* `Vigilância da Dengue no Brasil <VigilanciaDengue.pdf>`_ , apresentado por Jean Barrado, IMPA, 2011 
-* `Epidemiologia da Dengue no Brasil <EpidemiologiaDengue.pdf>`_ , apresentado por Ana Bispo, IMPA, 2011 
-* `Modelagem matemática aplicada ao controle da dengue <ENCEcurto2011.pdf>`_. apresentado por Claudia Codeco, ENCE 2011
-* `Modelagem matemática e computacional aplicada ao controle da dengue <unioeste2011.pdf>`_. apresentado por Andre Brun e Rogerio Rizzi, ENCE 2011
-* `Análise crítica de modelos matemáticos utilizados para modelar a dinâmica de Aedes aegypti <OficinaPRONEXDENISEAGO2011.pdf>`_. apresentado por Claudia Codeco, Fiocruz 2011
-* `Repositórios de dados espaciais para suporte à modelagem matemática da dengue <ufma2011.pdf>`_. apresentado por Anselmo Paiva, IMPA 2011
-* `Simulation of dengue using TerraME <terrame2011.pdf>`_. apresentado por Tiago Carneiro, IMPA 2011
-* `Modelos matemáticos e computacionais <ufla2011.pdf>`_. apresentado por Iraziet Charret, IMPA 2011
+* `Towards an ontology for mathematical epidemiology </ontologia2012.pdf>`_. apresentado por Flavio Coelho, Renato Rocha e Claudia Codeco, Mysore 2012
+* `Models of dengue fever and their contributions to public health </CNMAC2012.pdf>`_. apresentado por Claudia Codeco, CNMAC 2012
+* `Seasonality and spatial dynamics of dengue fever </CostaRica2012.pdf>`_. apresentado por Claudia Codeco, Costa Rica, 2012
+* `Vigilância da Dengue no Brasil </VigilanciaDengue.pdf>`_ , apresentado por Jean Barrado, IMPA, 2011 
+* `Epidemiologia da Dengue no Brasil </EpidemiologiaDengue.pdf>`_ , apresentado por Ana Bispo, IMPA, 2011 
+* `Modelagem matemática aplicada ao controle da dengue </ENCEcurto2011.pdf>`_. apresentado por Claudia Codeco, ENCE 2011
+* `Modelagem matemática e computacional aplicada ao controle da dengue </unioeste2011.pdf>`_. apresentado por Andre Brun e Rogerio Rizzi, ENCE 2011
+* `Análise crítica de modelos matemáticos utilizados para modelar a dinâmica de Aedes aegypti </OficinaPRONEXDENISEAGO2011.pdf>`_. apresentado por Claudia Codeco, Fiocruz 2011
+* `Repositórios de dados espaciais para suporte à modelagem matemática da dengue </ufma2011.pdf>`_. apresentado por Anselmo Paiva, IMPA 2011
+* `Simulation of dengue using TerraME </terrame2011.pdf>`_. apresentado por Tiago Carneiro, IMPA 2011
+* `Modelos matemáticos e computacionais </ufla2011.pdf>`_. apresentado por Iraziet Charret, IMPA 2011
 
 3. Alguns artigos sobre dengue, produzidos por membros da rede
 --------------------------------------------------------------
@@ -71,7 +71,7 @@ Confira, utilize e contribua com dados que subsidiem a modelagem em dengue na no
 	
 	
 * `Assessing the Potential of a Candidate Dengue Vaccine with Mathematical Modeling. Plos Neglected Tropical Diseases, v. 6, p. e1450, 2012. <http://www.plosntds.org/article/info%3Adoi%2F10.1371%2Fjournal.pntd.0001450>`_
-   WHO-VMI Dengue Vaccine Modeling ; STRUCHINER, C. J.
+   WHO-VMI Dengue Vaccine Modeling ; Struchiner, C. J.
      
   To date, most models of dengue transmission have been limited in scope and focused on specific questions in transmission dynamics.
   However, many aspects of the dynamics of dengue transmission are still not fully understood. In order for models to be accurate,

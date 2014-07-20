@@ -9,9 +9,20 @@
 .. class:: span5
 
 
+Objetivos da Rede
+------------------
+
+   * Produzir investigações em epidemiologia matemática, com especificidade em dengue; 
+
+   * Gerar sistemas de informações para subsidiar as autoridades na tomada de decisões;
+
+   * Fórum de discussão e colaboração que favoreça soluções interdisciplinares para os problemas relacionados à dengue.
+
+
+.. class:: span5
+
 Projetos em andamento
 ---------------------
-
 
 .. class:: nav-list
 
@@ -22,8 +33,6 @@ Projetos em andamento
 * Dinâmica temporal do Aedes aegypti e sua associação com o clima
 * Dinâmica espaço-temporal do Aedes aegypti
 * Controle químico do vetor da dengue
-* A paisagem da dengue
-* Ontologia da modelagem da dengue
-* Indicadores de risco de dengue
+* Alerta dengue
 
 
