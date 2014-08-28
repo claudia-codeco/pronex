@@ -26,11 +26,13 @@ Instituições
 
  * Fundação Getulio Vargas `FGV`_
 
+ * Universidade Estadual de São Paulo `UNESP`_
+
  * Universidade Federal Fluminense `UFF`_
 
  * Universidade Federal de Ouro Preto `UFOP`_
 
- * Universidade Federal de Lavras `UFLA`_
+ * Universidade Federal de Santa Catarina `UFSC`_
 
  * Universidade de São Paulo `USP`_
 
@@ -74,13 +76,13 @@ Programa de Computação Científica, Fundação Oswaldo Cruz (Fiocruz)
   
   -  |lattes| `Helio Schechtman <http://lattes.cnpq.br/5343124450714007>`_ 
 
-  -  |lattes| `Tayñana Simões  <http://lattes.cnpq.br/3546257927731571>`_ 
+  -  |lattes| `Tayñana Simões  <http://lattes.cnpq.br/3546257927731571>`_  
   
   -  |lattes| `Jean Barrado <http://lattes.cnpq.br/4759017411527948>`_ 
   
   -  |lattes| `Izabel Cristina dos Reis <http://lattes.cnpq.br/5912024067464378>`_  
   
-  -  |lattes|  `Danielle C. Castro Costa <http://lattes.cnpq.br/8707465670173881>`_ , bolsista EXP-2 
+  -  |lattes|  `Danielle C. Castro Costa <http://lattes.cnpq.br/8707465670173881>`_ , bolsista EXP-2  (2012-2013)
   
 
 .. _`FGV`:
@@ -152,12 +154,14 @@ Departamento de Geoprocessamento (INPE)
 
     - |lattes| `Antonio Miguel Vieira Monteiro <http://lattes.cnpq.br/0654596992211296>`_
 
-    - |lattes| `Liliam Cesar de Castro Medeiros <http://lattes.cnpq.br/6937937220569796>`_
-
     - |lattes| `Leonardo Bacellar Santos <http://lattes.cnpq.br/9147853693310634>`_
     
     - |lattes| `Raian Vargas Maretto <http://lattes.cnpq.br/7874296760531038>`_
 
+
+.. _`UNESP`:
+
+    - |lattes| `Liliam Cesar de Castro Medeiros <http://lattes.cnpq.br/6937937220569796>`_
 
 .. _`IMPA`:
 
