@@ -1,0 +1,38 @@
+.. title: Projetos
+.. slug: projetos
+.. date: 2013/03/30 21:26:17
+.. tags: 
+.. link: 
+.. description: 
+
+
+.. class:: span5
+
+
+Objetivos da Rede
+------------------
+
+   * Produzir investigações em epidemiologia matemática, com especificidade em dengue; 
+
+   * Gerar sistemas de informações para subsidiar as autoridades na tomada de decisões;
+
+   * Fórum de discussão e colaboração que favoreça soluções interdisciplinares para os problemas relacionados à dengue.
+
+
+.. class:: span5
+
+Projetos em andamento
+---------------------
+
+.. class:: nav-list
+
+* DengueME: ambiente de simulação de dengue em espaço georeferenciado
+* `SIG Dengue Cascavel <http://www.inf.unioeste.br/~sigdengue/index.php/sigdengue>`_
+* Modelagem do Controle vetorial utilizando Wolbachia
+* Estimação do tamanho populacional de Aedes aegypti
+* Dinâmica temporal do Aedes aegypti e sua associação com o clima
+* Dinâmica espaço-temporal do Aedes aegypti
+* Controle químico do vetor da dengue
+* Alerta dengue
+
+
