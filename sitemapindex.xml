@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>http://www.dengue.mat.br/SOURCE/galleries/rss.xml</loc>
+  <lastmod>2014-08-28</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://www.dengue.mat.br/SOURCE/rss.xml</loc>
+  <lastmod>2014-08-28</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://www.dengue.mat.br/SOURCE/sitemap.xml</loc>
+  <lastmod>2014-08-28</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://www.dengue.mat.br/SOURCE/sitemapindex.xml</loc>
+  <lastmod>2014-08-28</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://www.dengue.mat.br/galleries/rss.xml</loc>
+  <lastmod>2014-10-14</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://www.dengue.mat.br/rss.xml</loc>
+  <lastmod>2014-10-14</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://www.dengue.mat.br/sitemap.xml</loc>
+  <lastmod>2014-10-14</lastmod>
+ </sitemap>
+</sitemapindex>
