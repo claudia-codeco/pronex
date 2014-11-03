@@ -1,0 +1,44 @@
+.. title: Projeto Alerta Dengue
+.. slug: alertadengue
+.. date: 2014/11/03 11:31:29
+.. tags: 
+.. link: 
+.. description: 
+
+
+.. class:: row
+
+.. class:: span5
+
+.. image:: /aereaSJC.jpg
+     :height: 200
+     :width: 600
+     :align: left
+     :target: <http://www.sjc.sp.gov.br>
+
+
+Projeto Alerta Dengue   
+----------------------------
+
+Objetivos
++++++++++++++++++++++++++++
+
+- Desenvolver um sistema de detecção precoce de surtos de Dengue e alertas, utilizando dados híbridos de Redes Sociais, Monitoramento Entomológico, Epidemiológico e Climático.
+- Desenvolver um protocolo de aquisição e processamento de dados que gere indicadores em tempo rápido.
+- Desenvolver um ambiente computacional que possa ser facilmente incorporado na rotina das equipes responsáveis pela vigilância da Dengue.
+- Aplicar esse modelo a várias cidades, respeitando as especificidades de cada uma. A princípio: Rio de Janeiro, Belo Horizonte e Curitiba.
+
+
+.. class:: span5
+
+
+**Alerta Rio de Janeiro**
+
+
+**Apresentações**
+`alerta.dengue.mat.br <https://alerta/dengue.mat.br>`_
+
+
+Apresentações
+----------
+

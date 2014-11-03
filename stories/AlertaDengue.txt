@@ -1,0 +1,56 @@
+.. title: Projeto Alerta Dengue
+.. slug: AlertaDengue
+.. date: 2014/11/03 11:31:29
+.. tags: 
+.. link: 
+.. description: 
+
+
+.. class:: row
+
+.. class:: span10
+
+.. image:: /figalerta.png
+     :height: 200
+     :width: 600
+     :align: left
+     :target: <https://alerta.dengue.mat.br>
+
+
+.. class:: row
+    
+     
+
+Objetivos
++++++++++++++++++++++++++++
+
+- Desenvolver um sistema de detecção precoce de surtos de Dengue e alertas, utilizando dados híbridos de Redes Sociais, Monitoramento Entomológico, Epidemiológico e Climático.
+- Desenvolver um protocolo de aquisição e processamento de dados que gere indicadores em tempo rápido.
+- Desenvolver um ambiente computacional que possa ser facilmente incorporado na rotina das equipes responsáveis pela vigilância da Dengue.
+- Aplicar esse modelo a várias cidades, respeitando as especificidades de cada uma. A princípio: Rio de Janeiro, Belo Horizonte e Curitiba.
+
+
+.. class:: span5
+
+
+Confira o `Alerta Rio de Janeiro <https://alerta.dengue.mat.br>`_
+
+
+**Apresentações**
+
+.. raw:: html
+
+
+ <iframe src="//www.slideshare.net/slideshow/embed_code/41042061" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; 
+ border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//pt.slideshare.net/fccoelho/alerta-dengue-expo-epi-out2014" 
+ title="Alerta dengue expo epi out2014" target="_blank">Alerta dengue expo epi out2014</a> </strong> from <strong><a href="//www.slideshare.net/fccoelho" target="_blank">Flávio Coelho</a></strong> </div>
+ 
+
+
+ <iframe src="//www.slideshare.net/slideshow/embed_code/41041982" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; 
+ border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//pt.slideshare.net/fccoelho/alerta-dengue-abrasco-2014-41041982" 
+ title="Alerta dengue abrasco 2014" target="_blank">Alerta dengue abrasco 2014</a> </strong> from <strong><a href="//www.slideshare.net/fccoelho" target="_blank">Flávio Coelho</a></strong> </div>
+ 
+ 
+ 
+
