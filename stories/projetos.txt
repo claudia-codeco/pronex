@@ -26,6 +26,7 @@ Projetos em andamento
 
 .. class:: nav-list
 
+* `Projeto Alerta dengue </stories/AlertaDengue.html>`_
 * DengueME: ambiente de simulação de dengue em espaço georeferenciado
 * `SIG Dengue Cascavel <http://www.inf.unioeste.br/~sigdengue/index.php/sigdengue>`_
 * Modelagem do Controle vetorial utilizando Wolbachia
@@ -33,6 +34,5 @@ Projetos em andamento
 * Dinâmica temporal do Aedes aegypti e sua associação com o clima
 * Dinâmica espaço-temporal do Aedes aegypti
 * Controle químico do vetor da dengue
-* Alerta dengue
 
 

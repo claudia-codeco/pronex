@@ -36,8 +36,7 @@ Esse ano, estaremos ampliando o escopo do Encontro, incluindo uma seção introd
 .. class:: span5
 
 
-**Inscrições abertas ATÉ 30 DE OUTUBRO!**
-`Formulário de inscrição <https://docs.google.com/spreadsheet/embeddedform?formkey=dGh3SkV0dWZOUFJFSWpqekdrd1hFNUE6MA>`_
+**Inscrições encerradas**
 
 Formas de participação:
 
@@ -45,7 +44,6 @@ Formas de participação:
 - Mesa redonda
 - Posters
 
-Informações: Para saber mais sobre o evento, contacte *codeco@fiocruz.br*  
 
 Histórico
 ----------
