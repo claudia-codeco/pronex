@@ -19,7 +19,7 @@
 
 .. class:: row
     
-.. class:: span5
+.. class:: span10
      
 
 Objetivos
