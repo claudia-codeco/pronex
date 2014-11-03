@@ -29,7 +29,7 @@ e seu monitoramento e controle. `Poster </poster_rededengue2010.pdf>`_
     
     .. class:: btn
 
-   `Inscrições Abertas! </stories/simposio2014.html>`_
+   `Confira! </stories/simposio2014.html>`_
 
 
 
