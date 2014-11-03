@@ -19,6 +19,7 @@
 
 .. class:: row
     
+.. class:: span10
      
 
 Objetivos
